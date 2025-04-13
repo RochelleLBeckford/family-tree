@@ -2,7 +2,7 @@
 
 ### Practice working with HTML
 
-- [ ] Simple practice to gain better understanding of HTML and how it breaks down its relationship from parent to child elements
+- [ ] Simple practice to gain a better understanding of HTML and how it breaks down its relationship from parent to child elements
 ---
 - [ ] Encompass:
   - [ ] HTML
